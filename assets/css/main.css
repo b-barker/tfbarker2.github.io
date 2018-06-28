@@ -2185,6 +2185,7 @@ input, select, textarea {
 
 			.image.main img {
 				border-radius: 0;
+				width: 100%;
 			}
 
 /* List */
